@@ -6,10 +6,12 @@ To deliver an analysis of promotions by exploring datasets, answering key busine
 
 Key Deliverables:
 
-Data Analysis:
-Deep dive into the provided metadata and datasets.
-Generate insights based on “Recommended Insights.pdf.”
+  -> Data Analysis:
+  -> Deep dive into the provided metadata and datasets.
+  -> Generate insights based on “Recommended Insights.pdf.”
+  
 Dashboard Design:
-Develop a comprehensive and user-friendly dashboard with key metrics and findings.
+  -> Develop a comprehensive and user-friendly dashboard with key metrics and findings.
+
 Ad-hoc Reports:
-Use SQL to address specific business questions outlined in “ad-hoc-requests.pdf.”
+  -> Use SQL to address specific business questions outlined in “ad-hoc-requests.pdf.”
