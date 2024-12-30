@@ -84,5 +84,6 @@ Feel free to contribute by suggesting enhancements or additional analyses. Fork 
 
 ## **Contact**  
 For questions or collaboration opportunities, reach out via:  
-- LinkedIn: [MukeshYadav](https://linkedin.com/in/mukeshyadavpyatla)  
+- LinkedIn: [MukeshYadav](https://linkedin.com/in/mukeshyadavpyatla)
+- Dashboard: [PowerBI](<iframe title="Retail Insights" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDg4MGVmNWYtYWIxNS00ODc2LWIzNGYtNTIyZWUxZTU2MGI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
